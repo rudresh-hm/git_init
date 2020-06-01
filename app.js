@@ -8,3 +8,4 @@ objChild.name="shede";
 console.log(objChild);
 console.log(objParent);
 console.log('mofo');
+console.log("soole maga");
